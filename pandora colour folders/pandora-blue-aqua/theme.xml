@@ -1,0 +1,9 @@
+<theme>
+    <formatVersion>6</formatVersion>
+
+<!-- COLOUR: See included colour guide for options.'-->	
+	<include>./../pandora/settings/colours/blue-aqua.xml</include>
+	<include>./../pandora/main.xml</include>	
+
+	
+</theme>
